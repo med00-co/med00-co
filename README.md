@@ -51,7 +51,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="[Mohamed_Id-irrami](https://www.linkedin.com/in/mohamed-id-irrami-500557334/)">
+  <a href="https://www.linkedin.com/in/mohamed-id-irrami-500557334/">
     LinkedIn
   </a>
 </p>
