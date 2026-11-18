@@ -1,7 +1,10 @@
+<h1 align="center">Hi 👋, I'm Mohamed Id Irrami</h1>
 
-<h1 align="center">Hi 👋, I'm Mohamed Idr irrami</h1>
+<h3 align="center">💻 Web Development Student at YouCode Safi</h3>
 
-<h3 align="center">💻 Web Development Student at YouCode</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=HTML+%26+CSS+%7C+Tailwind;JavaScript+learner;Building+creative+projects" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Passionate about programming, learning new technologies,
@@ -12,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Student at YouCode Morocco
-- 💻 Interested in Web Development
-- 🌱 Currently improving my JavaScript skills
-- 🔭 Working on personal and school projects
-- 🎯 Goal: Become a professional developer
+- 🎓 Student at YouCode, Safi (Morocco)
+- 💻 Focused on front-end web development
+- 🌱 Currently improving my JavaScript skills (DOM, API, fetch)
+- 🔭 Working on school projects and personal ones
+- 🎯 Goal: become a professional web developer
 
 ---
 
@@ -28,11 +31,14 @@
 
 ---
 
-### 🔥 Streak Stats
+### 📁 Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Mon Dex**](https://github.com/med00-co/brief1-Dex_YuGiOh) | Yu-Gi-Oh! Dex connected to an API | HTML, Tailwind, JS |
+| [**FakhArt**](https://github.com/med00-co/brief2-ecommerce) | Moroccan handicrafts shop (team project) | HTML, Tailwind |
+
+
 
 ---
 
@@ -48,11 +54,19 @@
 
 ---
 
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=med00-co&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-id-irrami-500557334/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
